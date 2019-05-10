@@ -16,10 +16,14 @@ http://www.aritrasen.com/deep-learning-with-pytorch-nn-sequentialgpusaving-loadi
 
 http://www.aritrasen.com/deep-learning-with-pytorch-speeding-up-the-training-1-4/
 
-# CNN
+# CNN (Computer Vision)
 
 http://www.aritrasen.com/deep-learning-with-pytorch-cnn-getting-started-2-0/
 
 http://www.aritrasen.com/deep-learning-with-pytorch-cnn-from-scratch-with-data-augmentation-2-1/
 
 http://www.aritrasen.com/deep-learning-with-pytorch-cnn-transfer-learning-2-2/
+
+# RNN & LSTM (Sequence Modeling)
+
+To be added soon
