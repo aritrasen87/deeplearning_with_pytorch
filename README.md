@@ -26,4 +26,8 @@ http://www.aritrasen.com/deep-learning-with-pytorch-cnn-transfer-learning-2-2/
 
 # RNN & LSTM (Sequence Modeling)
 
-To be added soon
+http://www.aritrasen.com/deep-learning-with-pytorch-sequence-modeling-getting-started-rnn-3-0/
+
+http://www.aritrasen.com/deep-learning-with-pytorch-sequence-modeling-time-series-prediction-rnns-3-1/
+
+Other tutorials to be added soon
