@@ -16,6 +16,8 @@ http://www.aritrasen.com/deep-learning-with-pytorch-nn-sequentialgpusaving-loadi
 
 http://www.aritrasen.com/deep-learning-with-pytorch-speeding-up-the-training-1-4/
 
+http://www.aritrasen.com/deep-learning-with-pytorch-custom-weight-initialization-1-5/
+
 # CNN (Computer Vision)
 
 http://www.aritrasen.com/deep-learning-with-pytorch-cnn-getting-started-2-0/
