@@ -32,4 +32,6 @@ http://www.aritrasen.com/deep-learning-with-pytorch-sequence-modeling-getting-st
 
 http://www.aritrasen.com/deep-learning-with-pytorch-sequence-modeling-time-series-prediction-rnns-3-1/
 
+http://www.aritrasen.com/deep-learning-with-pytorch-sequence-modeling-lstms-3-2/
+
 Other tutorials to be added soon
