@@ -34,4 +34,6 @@ http://www.aritrasen.com/deep-learning-with-pytorch-sequence-modeling-time-serie
 
 http://www.aritrasen.com/deep-learning-with-pytorch-sequence-modeling-lstms-3-2/
 
+http://www.aritrasen.com/deep-learning-with-pytorch-text-generation-lstms-3-3/
+
 Other tutorials to be added soon
